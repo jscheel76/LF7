@@ -222,7 +222,7 @@ Eränzen Sie die Programme aus dem ersten Teil (GPIO Output), so dass jeweils be
 ### Helligkeit mit Photoresistor+Kondonsator (oder Boden-Feuchtigkeitssensor)
 * [Schaltung+Library](https://gpiozero.readthedocs.io/en/stable/recipes.html#light-sensor)
 
-### MotionSensor
+### Motion Sensor
 * [mittels Flankenerkennung](https://tutorials-raspberrypi.de/raspberry-pi-bewegungsmelder-sensor-pir/)
 * [mittels Library](https://gpiozero.readthedocs.io/en/stable/recipes.html#motion-sensor)
 
